@@ -8,7 +8,7 @@ Follow these codesandboxes for the workshop:
 * Having fun with props - https://codesandbox.io/s/r1r4q8kkzo
 * Higher Order Components - https://codesandbox.io/s/qk90xw7zqj
 * RenderProps - https://codesandbox.io/s/nk9jvnp3wp
-* Provider/Consumer -
+* Provider/Consumer - https://codesandbox.io/s/jvj9r1v91w
 
 ## References
 
