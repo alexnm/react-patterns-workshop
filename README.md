@@ -17,3 +17,4 @@ Follow these codesandboxes for the workshop:
 * [React Patterns Course on Egghead](https://egghead.io/courses/advanced-react-component-patterns)
 * [Ryan Florence - Compound Components](https://www.youtube.com/watch?v=hEGg-3pIHlE)
 * [Michael Jackson - Never write another HOC](https://www.youtube.com/watch?v=BcVAq3YFiuc)
+* [React Context API](https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b)
