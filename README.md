@@ -6,8 +6,8 @@ Follow these codesandboxes for the workshop:
 * Component Design - https://codesandbox.io/s/w2605o04x8
 * Pure vs Stateless components - https://codesandbox.io/s/03k2xzo3zl
 * Having fun with props - https://codesandbox.io/s/r1r4q8kkzo
-* Higher Order Components -  https://codesandbox.io/s/qk90xw7zqj
-* RenderProps -
+* Higher Order Components - https://codesandbox.io/s/qk90xw7zqj
+* RenderProps - https://codesandbox.io/s/nk9jvnp3wp
 * Provider/Consumer -
 
 ## References
