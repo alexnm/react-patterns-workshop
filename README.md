@@ -1,6 +1,3 @@
-# Live Link
-https://codesandbox.io/live/pV331
-
 # Curricula
 A collection of patterns and practices that help you build better React components
 
