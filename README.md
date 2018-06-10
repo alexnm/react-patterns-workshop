@@ -1,5 +1,5 @@
 # Live Link
-https://codesandbox.io/live/Y6B7Kp
+https://codesandbox.io/live/BBQgjX
 
 # Curricula
 A collection of patterns and practices that help you build better React components
