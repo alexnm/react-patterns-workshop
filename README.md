@@ -1,6 +1,3 @@
-# Live Link
-https://codesandbox.io/live/q1yMD
-
 # Curricula
 A collection of patterns and practices that help you build better React components
 
@@ -12,6 +9,9 @@ Follow these codesandboxes for the workshop:
 * Higher Order Components - https://codesandbox.io/s/qk90xw7zqj
 * RenderProps - https://codesandbox.io/s/nk9jvnp3wp
 * Provider/Consumer - https://codesandbox.io/s/jvj9r1v91w
+
+## Final exercise with Store and the new Context API
+https://codesandbox.io/s/xpl9x4kmmq
 
 ## References
 
