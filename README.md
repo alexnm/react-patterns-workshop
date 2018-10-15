@@ -3,15 +3,33 @@ A collection of patterns and practices that help you build better React componen
 
 Follow these codesandboxes for the workshop:
 
-* Component Design - https://codesandbox.io/s/w2605o04x8
-* Pure vs Stateless components - https://codesandbox.io/s/03k2xzo3zl
-* Having fun with props - https://codesandbox.io/s/r1r4q8kkzo
-* Higher Order Components - https://codesandbox.io/s/qk90xw7zqj
-* RenderProps - https://codesandbox.io/s/nk9jvnp3wp
-* Provider/Consumer - https://codesandbox.io/s/jvj9r1v91w
+### Component Design
+In this first part we will go through some basic patterns that can be applied on regular React components to make them more readable and to allow you to write less code for the same result.
 
-## Final exercise with Store and the new Context API
-https://codesandbox.io/s/xpl9x4kmmq
+**[Sandbox link](https://codesandbox.io/s/oqx6jkvwn5)**
+
+As a bonus, we will have a quick look at the difference between stateless components and the **PureComponent** class from React. [Sandbox link](https://codesandbox.io/s/03k2xzo3zl).
+
+### Having fun with Props
+Now we will tackle various patterns of passing props from one component to another. As applications grow, so does the need of passing values between multiple level of components.
+
+**[Sandbox link](https://codesandbox.io/s/3qn5yz1pkq)**
+
+### Composition and Reusability
+Now it's time to look at some patterns aimed at ensuring we have code and functionality reusability across an entire app as well as making communication between components in different parts of the application easier.
+
+* **Higher Order Components** - [Sandbox link](https://codesandbox.io/s/4wk0rv72z7)
+* **Render Props** - [Sandbox link](https://codesandbox.io/s/1824x2jnjj)
+* **React Context** - [Sandbox link](https://codesandbox.io/s/v3q2olyxv7)
+
+### Final Exercise
+At the end of the workshop, it's time to put everything we learned to practice. HOCs, RenderProps, React Context and all the rest, bundled into a single task, of implementing your own state management system.
+
+We'll start from **[this sandbox](https://codesandbox.io/s/n320rp4x2p)** and we will have to:
+* Implement a **simple store** object (nothing fancy)
+* **Provide** the store reference to all the React components via React Context
+* Create a connect **HOC** which can **consume** the store
+* Implement a couple of connect calls with their corresponding mapStateToProps, mapDispatchToProps.
 
 ## References
 
