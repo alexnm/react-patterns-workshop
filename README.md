@@ -20,6 +20,7 @@ Now it's time to look at some patterns aimed at ensuring we have code and functi
 
 * **Higher Order Components** - [Sandbox link](https://codesandbox.io/s/4wk0rv72z7)
 * **Render Props** - [Sandbox link](https://codesandbox.io/s/1824x2jnjj)
+* **BONUS - React Hooks** - [Sandbox link](https://codesandbox.io/s/7ml4on34kx)
 * **React Context** - [Sandbox link](https://codesandbox.io/s/v3q2olyxv7)
 
 ### Final Exercise
