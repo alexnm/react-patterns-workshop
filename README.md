@@ -40,3 +40,5 @@ We'll start from **[this sandbox](https://codesandbox.io/s/n320rp4x2p)** and we 
 * [Ryan Florence - Compound Components](https://www.youtube.com/watch?v=hEGg-3pIHlE)
 * [Michael Jackson - Never write another HOC](https://www.youtube.com/watch?v=BcVAq3YFiuc)
 * [React Context API](https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b)
+
+LIVE SESSION: https://codesandbox.io/live/8qY2xg
