@@ -32,6 +32,8 @@ We'll start from **[this sandbox](https://codesandbox.io/s/n320rp4x2p)** and we 
 * Create a connect **HOC** which can **consume** the store
 * Implement a couple of connect calls with their corresponding mapStateToProps, mapDispatchToProps.
 
+Final solution: https://codesandbox.io/s/k00l3zovqo
+
 ## References
 
 * [My Original Article](https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f)
@@ -40,5 +42,3 @@ We'll start from **[this sandbox](https://codesandbox.io/s/n320rp4x2p)** and we 
 * [Ryan Florence - Compound Components](https://www.youtube.com/watch?v=hEGg-3pIHlE)
 * [Michael Jackson - Never write another HOC](https://www.youtube.com/watch?v=BcVAq3YFiuc)
 * [React Context API](https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b)
-
-LIVE SESSION: https://codesandbox.io/live/qLgQ3
